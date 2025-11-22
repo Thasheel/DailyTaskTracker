@@ -30,6 +30,9 @@ def get_db_connection():
     conn.row_factory = sqlite3.Row
     return conn
 
+# Initialize database when app starts (works with both direct run and gunicorn)
+init_db()
+
 @app.route('/')
 def index():
     """Display all tasks"""
