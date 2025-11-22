@@ -2,6 +2,8 @@
 
 A simple and elegant Flask-based web application for managing your daily tasks. Built as part of a Python Developer Screening Task.
 
+**🌐 Live Demo**: [https://dailytasktracker.up.railway.app/](https://dailytasktracker.up.railway.app/)
+
 ## 🌟 Features
 
 - ✅ **Add Tasks**: Create new tasks with title and optional description
@@ -15,7 +17,7 @@ A simple and elegant Flask-based web application for managing your daily tasks. 
 
 ## 🚀 Live Demo
 
-**Hosted App URL**: [Your deployed app URL will go here]
+**Hosted App URL**: [https://dailytasktracker.up.railway.app/]
 
 ## 🛠️ Technology Stack
 
@@ -150,3 +152,6 @@ Created by Mohammed Thasheel as part of a Python Developer Screening Task.
 
 **Contact**: mohdthasheelok@gmail.com  
 **GitHub**: (https://github.com/thasheel)  
+
+
+
