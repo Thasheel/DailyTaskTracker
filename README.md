@@ -1,8 +1,8 @@
 # Daily Task Tracker 📝
 
-A simple and elegant web application for managing your daily tasks.
+A simple and elegant Flask-based web application for managing your daily tasks. Built as part of a Python Developer Screening Task.
 
-**🌐 Live Demo**: [https://dailytasktracker.up.railway.app/](https://dailytasktracker.up.railway.app/)
+**🌐 Live Demo**: [https://dailytasktracker.onrender.com/](https://dailytasktracker.onrender.com/)
 
 ## 🌟 Features
 
@@ -13,17 +13,17 @@ A simple and elegant web application for managing your daily tasks.
 - 📊 **Task Statistics**: View total, completed, and pending tasks
 - 💾 **SQLite Database**: Persistent storage for all your tasks
 - 📱 **Responsive Design**: Works great on desktop and mobile devices
-- 🎨 **Modern UI**: Clean, minimal interface
+- 🎨 **Modern UI**: Clean interface built with Bootstrap 5
 
 ## 🚀 Live Demo
 
-**Hosted App URL**: [https://dailytasktracker.up.railway.app/]
+**Hosted App URL**: [https://dailytasktracker.onrender.com/]
 
 ## 🛠️ Technology Stack
 
 - **Backend**: Flask (Python 3.11)
 - **Database**: SQLite
-- **Frontend**: HTML5, CSS3
+- **Frontend**: HTML5, CSS3, Bootstrap 5
 - **Template Engine**: Jinja2
 - **Icons**: Font Awesome
 - **Deployment**: Ready for Render, Railway, or PythonAnywhere
@@ -110,7 +110,7 @@ The SQLite database (`tasks.db`) will be created automatically when you first ru
 ## 🎨 UI/UX Features
 
 - **Responsive Design**: Works seamlessly on all device sizes
-- **Modern Interface**: Clean, professional look with custom styling
+- **Modern Interface**: Clean, professional look with Bootstrap 5
 - **Interactive Elements**: Hover effects and smooth transitions
 - **Visual Feedback**: Color-coded task status and flash messages
 - **Intuitive Navigation**: Clear action buttons with icons
@@ -127,7 +127,7 @@ The SQLite database (`tasks.db`) will be created automatically when you first ru
 ## 🚧 Challenges Faced & Solutions
 
 1. **Database Initialization**: Ensured automatic database creation on first run
-2. **Responsive Design**: Implemented mobile-first approach
+2. **Responsive Design**: Implemented mobile-first approach with Bootstrap
 3. **User Experience**: Added confirmation dialogs and flash messages
 4. **Deployment Configuration**: Created proper Procfile and requirements.txt
 
